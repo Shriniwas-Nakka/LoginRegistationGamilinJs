@@ -1,0 +1,49 @@
+.titleLogin{
+    background-color: rgb(255, 255, 255);
+    border-style: dotted;
+    border-radius: 10px;
+    border-width: 30%;
+    
+    border-color: gray;
+
+    padding : 100px;
+   
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 20%;
+    height : 300px;
+     
+
+
+    background-image: url('../../assests/images.jpg'); 
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 30%; 
+   
+}
+
+
+.header{
+    font-style: normal;
+    font-family: -webkit-pictograph;
+    font-size: large;
+    
+}
+
+.Ignore{
+    visibility: hidden;
+    letter-spacing: 5px;
+    
+}
+.Ignore1{
+    visibility: hidden;
+    letter-spacing: 1px;
+    
+}
+.next{
+    float:inline-end
+}
+.item{
+    color:rgb(72, 72, 235);
+}

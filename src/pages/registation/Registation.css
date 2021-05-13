@@ -1,0 +1,89 @@
+.title{
+    background-color: rgb(255, 255, 255);
+    border-style: dotted;
+    border-radius: 10px;
+    border-width: 50%;
+    
+    border-color: gray;
+
+    padding : 50px;
+   
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 40%;
+    height : 500px;
+    background-image: url('../../assests/gmailimage.svg');
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 30%; 
+   
+      
+}
+
+.header{
+   
+    float: left;
+    font-size: larger;
+    font-family: -webkit-pictograph;
+    font-style: normal;
+}
+
+.name{
+    float: left;
+}
+#outlined-basic{
+    -ms-layout-grid-line: 500px;
+}
+.Ignore{
+    visibility: hidden;
+    letter-spacing: 16px;
+    
+}
+.Ignore1{
+    visibility: hidden;
+    letter-spacing: 6px;
+    
+}
+.Email{
+    float:left;
+    -ms-layout-grid: 120px;
+}
+
+
+
+.passWord{
+    float: left;
+
+}
+.Ignore2{
+    visibility: hidden;
+    letter-spacing: 8px;
+    
+}
+
+.Ignore3{
+    visibility: hidden;
+    letter-spacing: 3px;
+}
+
+
+.Ignore4{
+    visibility: hidden;
+    letter-spacing: 3px;
+    
+}
+.box{
+    float: left;
+   
+}
+.Tag{
+    float :left;
+}
+.Ignore5{
+    visibility: hidden;
+    letter-spacing: 5px;
+    
+}
+ 
+
