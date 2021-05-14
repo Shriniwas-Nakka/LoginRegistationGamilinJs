@@ -14,7 +14,6 @@ import Button from '@material-ui/core/Button';
 
 
 
-
 export default class RegistationPages extends React.Component{
     constructor(){
         super()
